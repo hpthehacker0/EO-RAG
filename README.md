@@ -231,11 +231,16 @@ This makes the output machine-readable and pluggable into downstream systems.
 
 
 ---
+## 👨‍💻 Author
 
-## License
+## Contact Info
 
-MIT
+For questions, issues, or collaboration, please contact:
 
----
+> **HARI PRASANNA M**
+> *E-mail: m.hariprasanna.hp@gmail.com*
+> *GitHub: hpthehacker0*
+
+
 
 *Built as a portfolio project targeting India's space tech industry *
