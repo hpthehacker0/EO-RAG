@@ -238,4 +238,4 @@ MIT
 
 ---
 
-*Built as a portfolio project targeting India's space tech industry — Pixxel, SatSure, ISRO NewSpace.*
+*Built as a portfolio project targeting India's space tech industry *
