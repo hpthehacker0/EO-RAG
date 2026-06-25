@@ -1,0 +1,15 @@
+rasterio
+pyproj
+numpy
+pandas
+requests
+python-dotenv
+sentence-transformers
+chromadb
+langchain-core
+langchain-ollama
+langchain
+pydantic
+streamlit
+folium
+streamlit-folium

@@ -58,7 +58,7 @@ def compute_ndvi_tiles():
                     "date"         : DATE,
                     "col_off"      : col_off,
                     "row_off"      : row_off,
-		    "center_lon"   : round(transformer.transform(center_x, center_y)[0], 6),
+		            "center_lon"   : round(transformer.transform(center_x, center_y)[0], 6),
                     "center_lat"   : round(transformer.transform(center_x, center_y)[1], 6),
                     "ndvi_mean"    : round(float(np.nanmean(ndvi)), 4),
                     "ndvi_min"     : round(float(np.nanmin(ndvi)),  4),
