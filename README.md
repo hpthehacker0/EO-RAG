@@ -81,7 +81,7 @@ Streamlit + Folium UI
 
 ```
 eo-rag/
-├── .env                      # CDSE credentials (not committed)
+├── .env                      # CDSE credentials (gitignored but added example env)
 ├── download_sentinel.py      # Search products zip and Download + extract bands
 ├── compute_ndvi.py           # Tile NDVI computation → JSON
 ├── embed_tiles.py            # Text chunking + ChromaDB embedding
