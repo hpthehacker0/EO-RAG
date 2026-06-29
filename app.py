@@ -27,7 +27,7 @@ Return your answer as a JSON object with these exact fields:
 - avg_ndvi: average NDVI value from the retrieved tiles (float)
 - hotspot_location: lat/lon of most relevant tile as "lat,lon" string or null
 - confidence: one of [high, medium, low]
-- tiles_retrieved: number of tiles used (int)
+- tiles_retrieved: number of tiles used (int) 
 
 Context:
 {context}
